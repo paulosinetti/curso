@@ -1,6 +1,5 @@
 <resources>
-    <string name="app_name">Curso</string>
-    <string name="action_settings">Settings</string>
+
     <string name="teste">teste</string>
-    <string name="teste1">teste1</string>
+    
 </resources>
